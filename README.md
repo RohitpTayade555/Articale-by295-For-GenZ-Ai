@@ -20,4 +20,3 @@ I wrote a short article explaining:
 • Why AI still needs humans
 • And how students can stay future-ready
 
-Sharing my thoughts below 👇
